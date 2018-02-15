@@ -1,0 +1,7 @@
+Movie: BEAUTY AND THE BEAST
+Starting Time:13:00
+Seat: A3
+Type:student ticket
+Price: 13.6
+Ticket ID:31414123
+Student ID: 124

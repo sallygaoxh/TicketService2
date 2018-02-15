@@ -1,0 +1,4 @@
+Movie: LOGANStarting Time:15:30Seat: A1
+Type:adult ticket
+Price: 16.0
+Ticket ID:32223221

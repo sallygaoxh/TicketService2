@@ -1,0 +1,5 @@
+Movie: LOGANStarting Time:15:30Seat: A2
+Type:student ticket
+Price: 13.6
+Ticket ID:34342444
+123

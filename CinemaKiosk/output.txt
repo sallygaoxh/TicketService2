@@ -1,0 +1,10 @@
+Total sale of BEAUTY AND THE BEAST: 0.0
+Total sale of KONG: SKULL ISLAND: 0.0
+Total sale of MOONLIGHT: 0.0
+Total sale of LOGAN: 0.0
+Total sale of LA LA LAND: 0.0
+Total number of tickets sold: 0
+Total sale of student tickets: 0
+Total sale of child tickets: 0
+Total sale of senior tickets: 0
+Total sale of adult tickets: 0

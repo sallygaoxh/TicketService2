@@ -1,0 +1,6 @@
+Movie: KONG: SKULL ISLAND
+Starting Time:18:30
+Seat: A4
+Type:child ticket
+Price: $8.0
+Ticket ID:12242413

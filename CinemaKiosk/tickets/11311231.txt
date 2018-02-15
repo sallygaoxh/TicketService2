@@ -1,0 +1,6 @@
+Movie: BEAUTY AND THE BEAST
+Starting Time:13:00
+Seat: A1
+Type:adult ticket
+Price: 16.0
+Ticket ID:11311231

@@ -1,0 +1,6 @@
+Movie: BEAUTY AND THE BEAST
+Starting Time:13:00
+Seat: A2
+Type:senior ticket
+Price: 12.8
+Ticket ID:12113133
